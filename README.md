@@ -1,4 +1,4 @@
-# Resources-on-PLS-Schemes
+# Resources on PLS Schemes
 This Github repository summarizes a list of Physical Layer Security related Schemes based on Authentication & Encryption mainly based in the telecommunication domain - 4G/5G and beyond.
 
 
