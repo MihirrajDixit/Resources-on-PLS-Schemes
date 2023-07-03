@@ -34,7 +34,7 @@ Format referred from [here](https://github.com/THUYimingLi/backdoor-learning-res
 1. A Survey of Physical-Layer Authentication in Wireless Communications [[link](https://ieeexplore.ieee.org/document/9279294)]
    - Ning Xie, Zhuoyuan Li, and Haijun Tan. IEEE Communications Surveys & Tutorials ( Volume: 23, Issue: 1, Firstquarter 2021)
   
-2. Survey on Physical Layer Security for 5G Wireless Networks [[pdf](Survey on Physical Layer Security for 5G Wireless Networks)]
+2. Survey on Physical Layer Security for 5G Wireless Networks [[pdf](https://arxiv.org/pdf/2006.08044.pdf)]
    - José David Vega Sánchez, Luis Urquiza-Aguiar, Martha Cecilia Paredes Paredes, Diana Pamela Moya Osorio. Annals of Telecommunications (2021) 76:155–174
 ---
 
