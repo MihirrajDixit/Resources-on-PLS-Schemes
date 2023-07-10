@@ -1,5 +1,5 @@
 # Resources on PLS Schemes
-This Github repository summarizes a list of Physical Layer Security related Schemes based on Authentication & Encryption mainly based in the telecommunication domain - 4G/5G and beyond.
+This Github repository summarizes a list of Physical Layer Security related Schemes based on Authentication & Encryption mainly based in the telecommunication domain - 4G/5G and beyond. The schemes are mainly classified based on the applications and the security features used.
 
 ---
 
@@ -10,7 +10,10 @@ Please help to contribute to this list by contacting [me](https://mihirrajdixit.
 Markdown format:
 ```markdown
 - Paper Name. 
-  [[pdf]](link) 
+  [E(Encryption_Scheme)(&/)A(Authentication_Scheme)]
+  [C(Cryptographic)/NC(Non-cryptographic)]
+  [[link]](link)
+  [[pdf]](link)
   [[code]](link)
   - Author 1, Author 2, **and** Author 3. *Conference/Journal*, Year.
 ```
@@ -23,9 +26,15 @@ Format referred from [here](https://github.com/THUYimingLi/backdoor-learning-res
 
 ## Table of Contents
 
-1. [Survey](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/edit/main/README.md#survey)
-2. [Authentication Schemes](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/edit/main/README.md#authentication-schemes)
-3. [Encryption Schemes](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/edit/main/README.md#encryption-schemes)
+1. [Survey](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/blob/main/PLS-Schemes.md#survey)
+2. [Applications](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/edit/main/README.md#applications)
+   - 2.1  [Wireless Channels](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/blob/main/PLS-Schemes.md#1-wireless-channels)
+      - 2.1.1. [Channel Characteristics](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/blob/main/PLS-Schemes.md#channel-characteristics)
+      - 2.1.2. [Channel Codes](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/blob/main/PLS-Schemes.md#channel-codes)
+   - 2.2 [Internet of Things(IoT)](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/blob/main/PLS-Schemes.md#2-internet-of-thingsiot)
+   - 2.3 [Vehicle Communication](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/blob/main/PLS-Schemes.md#3-vehicle-communication)
+   - 2.4 [Industrial IoT](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/blob/main/PLS-Schemes.md#4-industrial-iot)
+3. [Experimental Setups](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/blob/main/PLS-Schemes.md#experimental-setups)
 
 ---
 
@@ -38,8 +47,53 @@ Format referred from [here](https://github.com/THUYimingLi/backdoor-learning-res
    - José David Vega Sánchez, Luis Urquiza-Aguiar, Martha Cecilia Paredes Paredes, Diana Pamela Moya Osorio. Annals of Telecommunications (2021) 76:155–174
 ---
 
-## Authentication Schemes
+## Applications
 
----
+## 1. Wireless Channels
 
-## Encryption Schemes
+### Channel Characteristics
+
+1. A Physical-Layer Message Encryption and Authentication Scheme [E&A][C] [[link](https://ieeexplore.ieee.org/document/8780742)]
+   - Xingzhi Li, Liang Jin, Zhou Zhong, Yangming Lou. 2018 IEEE 4th International Conference on Computer and Communications (ICCC)
+  
+
+
+### Channel Codes
+
+1. Physical-Layer Authentication Using Channel State Information and Machine Learning [A][NC][[pdf](https://arxiv.org/pdf/2006.03695.pdf)]
+   - Ken St. Germain, Frank Kragh. 2020 14th International Conference on Signal Processing and Communication Systems (ICSPCS)
+
+2. Physical layer authentication based on channel information and machine learning [A][NC][[link](https://ieeexplore.ieee.org/document/8228660)]
+   - Fei Pan, Hong Wen, Runfa Liao, Yixin Jiang, Aidong Xu, Kai Ouyang, Xiping Zhu. 2017 IEEE Conference on Communications and Network Security (CNS)
+
+3. An LDPC Code Based Physical Layer Message Authentication Scheme With Prefect Security [A][C][[link]](https://ieeexplore.ieee.org/document/8334238)
+   - Dajiang Chen, Ning Zhang, Rongxing Lu, Xiaojie Fang, Kuan Zhang, Zhiguang Qin, Xuemin Shen. IEEE Journal on Selected Areas in Communications ( Volume: 36, Issue: 4, April 2018)
+  
+4. Physical Layer based Message Authentication with Secure Channel Codes [A][C][[pdf](https://ece.uwaterloo.ca/~n5cheng/Publication/Physical%20Layer%20based%20Message%20Authentication%20with%20Secure%20Channel%20Codes.pdf)]
+   - Dajiang Chen, Ning Zhang, Nan Cheng, Kuan Zhang, Zhiguang Qin, Xuemin Shen. IEEE Transactions on Dependable and Secure Computing ( Volume: 17, Issue: 5, 01 Sept.-Oct. 2020)
+
+## 2. Internet of Things(IoT)
+
+1. Lightweight Physical Layer Aided Key Agreement and Authentication for the Internet of Things [A][C][[pdf](https://www.mdpi.com/2079-9292/10/14/1730/pdf?version=1626700378)]
+   - Seungnam Han,Yonggu Lee,Jinho Choi and Euiseok Hwang. Selected Papers from 14th International Conference on Signal Processing and Communication Systems
+  
+2. Physical Layer Aided Authentication and Key Agreement for the Internet of Things [A][C][[link](https://ieeexplore.ieee.org/document/9310058)]
+   - Yonggu Lee, Euiseok Hwang, Jinho Choi. 2020 14th International Conference on Signal Processing and Communication Systems (ICSPCS)
+
+## 3. Vehicle Communication
+
+1. Physical Layer Authentication Based on Nonlinear Kalman Filter for V2X Communication [A][C][[link](https://ieeexplore.ieee.org/document/9187413)]
+   - Jian Wang, Yameng Shao, Yancong Wang, Yuming Ge, Rundong Yu. IEEE Access ( Volume: 8)
+
+
+## 4. Industrial IoT
+
+1. Physical Layer Authentication for Non-Coherent Massive SIMO-Enabled Industrial IoT Communications[A][C][[link](https://ieeexplore.ieee.org/document/9104760)]
+   - Zhifang Gu, He Chen, Pingping Xu, Yonghui Li, Branka Vucetic. IEEE Transactions on Information Forensics and Security ( Volume: 15)
+
+
+## Experimental Setups
+
+1. Amarisoft Callbox [link](https://www.amarisoft.com/products/test-measurements/amari-lte-callbox/)
+2. srsRAN [link](https://www.srslte.com/)
+3. open5gs [link](https://open5gs.org/)
