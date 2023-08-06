@@ -27,14 +27,18 @@ Format referred from [here](https://github.com/THUYimingLi/backdoor-learning-res
 ## Table of Contents
 
 1. [Survey](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/blob/main/PLS-Schemes.md#survey)
-2. [Applications](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/edit/main/README.md#applications)
+2. [Thesis](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/blob/main/PLS-Schemes.md#thesis)
+3. [Applications](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/edit/main/README.md#applications)
    - 2.1  [Wireless Channels](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/blob/main/PLS-Schemes.md#1-wireless-channels)
       - 2.1.1. [Channel Characteristics](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/blob/main/PLS-Schemes.md#channel-characteristics)
       - 2.1.2. [Channel Codes](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/blob/main/PLS-Schemes.md#channel-codes)
    - 2.2 [Internet of Things(IoT)](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/blob/main/PLS-Schemes.md#2-internet-of-thingsiot)
    - 2.3 [Vehicle Communication](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/blob/main/PLS-Schemes.md#3-vehicle-communication)
    - 2.4 [Industrial IoT](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/blob/main/PLS-Schemes.md#4-industrial-iot)
-3. [Experimental Setups](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/blob/main/PLS-Schemes.md#experimental-setups)
+   - 2.5 [Wireless Systems](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/blob/main/PLS-Schemes.md#5-wireless-systems)
+   - 2.6 [Satellite Communication](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/blob/main/PLS-Schemes.md#6-satellite-communication)
+   - 2.7 [Application Layer](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/blob/main/PLS-Schemes.md#7-application-layer)
+4. [Experimental Setups](https://github.com/MihirrajDixit/Resources-on-PLS-Schemes/blob/main/PLS-Schemes.md#experimental-setups)
 
 ---
 
@@ -49,8 +53,27 @@ Format referred from [here](https://github.com/THUYimingLi/backdoor-learning-res
 3. Physical layer authentication in wireless communication networks: A survey [[link](https://ieeexplore.ieee.org/abstract/document/9200889)]
    - Lin Bai, Lina Zhu, Jianwei Liu, Jinho Choi, Wei Zhang.  Journal of Communications and Information Networks ( Volume: 5, Issue: 3, September 2020)
 
+4. Physical-Layer Security of 5G Wireless Networks for IoT: Challenges and Opportunities [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8758230&casa_token=Gon-0qWBD1UAAAAA:8n049b0PQD2we8ThIys9krrjPxU1Bqe-TnAnKAfoIpbvE7FgErubkNCD_hM1FT6lMbbta_Twvg)]
+   - Ning Wang , Pu Wang, Amir Alipour-Fanid, Long Jiao, and Kai Zeng. IEEE Internet of Things Journal, Vol. 6, No. 5, October 2019
+
+5. A Survey of Physical Layer Security Techniques for 5G Wireless Networks and Challenges Ahead[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8335290&casa_token=ml3JMr0LNw0AAAAA:_shM2JH3p4tYesmzOEu4VHiGN7PklToK9Qap7Ob_ZPRGYsOnlGcfoLxWH3Msah9hgNBbb9F4UQ&tag=1)]
+   - Yongpeng Wu, Ashish Khisti, Chengshan Xiao, Giuseppe Caire, Kai-Kit Wong, Xiqi Gao. IEEE Journal on Selected Areas in Communications ( Volume: 36, Issue: 4, April 2018)
+
+6. Short Survey on Physical Layer Authentication by Machine-Learning for 5G-based Internet of Things[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9318879&casa_token=NC5ldt5CmWoAAAAA:xiC_RkCP3Fyf16FJSkudiMYGI5qARBe6R7-L4dg9oXsSYn4UwRocvxC4V4Ri4uhqxBnLJbxP-A)]
+   - Jehn-Ruey Jiang. 3rd IEEE International Conference on Knowledge Innovation and Invention 2020
 
 ---
+
+## Thesis
+1. Physical-layer Security Architectures For The Internet Of Things [[pdf](https://hss-opus.ub.ruhr-uni-bochum.de/opus4/frontdoor/deliver/index/docId/6136/file/diss.pdf)]
+   - Christopher Stefan Friedrich Huth
+
+2. Physical Layer Authentication Of 5g Devices In Motion Using Planar Reflectors [[pdf](https://apps.dtic.mil/sti/trecms/pdf/AD1150859.pdf)]
+   - Ryan P. Breckenridge
+
+3. Physical-layer Security Based Authentication And Key Generation For Seamless Iot Communications [[pdf](https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=dayton1576178965071975&disposition=inline)]
+   - Jiahui Yu
+
 
 ## Applications
 
@@ -58,7 +81,11 @@ Format referred from [here](https://github.com/THUYimingLi/backdoor-learning-res
 
 ### Channel Characteristics
 
-1. A Physical-Layer Message Encryption and Authentication Scheme [E&A][C] [[link](https://ieeexplore.ieee.org/document/8780742)]
+1. Cross-Layer Authentication based on Physical-Layer Signatures for Secure Vehicular Communication[A][C][[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9827444&casa_token=xSgeeGzBJNYAAAAA:S18FUJDfXcVvBej5DaRbsElYBGRV5Wn18AU-62cWJ5tQy4rREKKQag41NfLtBcI3f_LuaLmitg)]
+   - Mahmoud A. Shawky, Qammer H. Abbasi, Muhammad Ali Imran, Shuja Ansari, Ahmad Taha. 2022 IEEE Intelligent Vehicles Symposium (IV)
+
+
+2. A Physical-Layer Message Encryption and Authentication Scheme [E&A][C] [[link](https://ieeexplore.ieee.org/document/8780742)]
    - Xingzhi Li, Liang Jin, Zhou Zhong, Yangming Lou. 2018 IEEE 4th International Conference on Computer and Communications (ICCC)
 
 
@@ -87,6 +114,9 @@ Format referred from [here](https://github.com/THUYimingLi/backdoor-learning-res
 2. Physical Layer Aided Authentication and Key Agreement for the Internet of Things [A][C][[link](https://ieeexplore.ieee.org/document/9310058)]
    - Yonggu Lee, Euiseok Hwang, Jinho Choi. 2020 14th International Conference on Signal Processing and Communication Systems (ICSPCS)
 
+3. Adaptive Physical Layer Authentication Using Machine Learning With Antenna Diversity [A][NC][[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9851464&casa_token=uxshhYpQ6fcAAAAA:2MJzwKvu48OPcobyXCuM1ceDjUM1XMjJxAU4aIX4HG90DdweIB2c1uUOKB3kYrcRxb3Hd_UgUQ)]
+   - Mohammed Abdrabou, T. Aaron Gulliver. IEEE Transactions on Communications ( Volume: 70, Issue: 10, October 2022)
+
 ## 3. Vehicle Communication
 
 1. Physical Layer Authentication Based on Nonlinear Kalman Filter for V2X Communication [A][C][[link](https://ieeexplore.ieee.org/document/9187413)]
@@ -102,13 +132,31 @@ Format referred from [here](https://github.com/THUYimingLi/backdoor-learning-res
 
 ## 4. Industrial IoT
 
-1. Physical Layer Authentication for Non-Coherent Massive SIMO-Enabled Industrial IoT Communications[A][C][[link](https://ieeexplore.ieee.org/document/9104760)]
+1. Physical-Layer Authentication Based on Hierarchical Variational Autoencoder for Industrial Internet of Things[A][C][[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9916065&casa_token=cxCdMqqbQYcAAAAA:VC6o2RQTVuIhqdgHHMLhohpOsbitvnZ3WFkdd3YD-U86OueNt5zgCGMBmsZ9HeQRMRDtDggLxw)]
+   - Rui Meng, Xiaodong Xu, Bizhu Wang, Hao Sun, Shida Xia, Shujun Han, Ping Zhang. IEEE Internet of Things Journal ( Volume: 10, Issue: 3, 01 February 2023)
+
+2. Physical Layer Authentication for Non-Coherent Massive SIMO-Enabled Industrial IoT Communications[A][C][[link](https://ieeexplore.ieee.org/document/9104760)]
    - Zhifang Gu, He Chen, Pingping Xu, Yonghui Li, Branka Vucetic. IEEE Transactions on Information Forensics and Security ( Volume: 15)
 
-## 5. Application Layer
+3. Multiuser Physical-Layer Authentication Based on Latent Perturbed Neural Networks for Industrial Internet of Things[A][NC][[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9873945&casa_token=gP5j2e1unW8AAAAA:Uv_Bql7uH4VpXVSJrrQBPw9MFar9rO8WxeDNvnUmCfKytI6m-x4A1ja1oOW3Cz07eRKVp_hpeQ)]
+   - Rui Meng, Xiaodong Xu, Hao Sun, Hangyu Zhao, Bizhu Wang, Shujun Han, Ping Zhang. IEEE Internet of Things Journal ( Volume: 10, Issue: 1, 01 January 2023)
+
+
+## 5. Wireless Systems
+
+1. Physical-Layer Authentication for Ambient Backscatter-Aided NOMA Symbiotic Systems[A][C][[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10045696&casa_token=aZ4T8L3j7HMAAAAA:1T1BvqE8FWBG1a4SB07v6zXY1QEXe8ogRP29Jq00Txt8CKr3fbt6-fZJPGjDgq-PiRXy-2PZTA)]
+   - Xingwang Li, Qunshu Wang, Ming Zeng, Yuanwei Liu, Shuping Dang, Theodoros A. Tsiftsis, Octavia A. Dobre. IEEE Transactions on Communications ( Volume: 71, Issue: 4, April 2023)
+
+## 6. Satellite Communication
+
+1. Physical Layer Authentication for LEO Satellite Constellations [A][NC][[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9771727&casa_token=__xcruCDxXMAAAAA:Gi8yo6IYx0cHcmnCsqBdnnZhmiZH95DLZnPljlnsavQ3mPHnMjrJBXK5hq9hziXOYjvUznV6Xg)]
+   - Ozan Alp Topal, Gunes Karabulut Kurt. 2022 IEEE Wireless Communications and Networking Conference (WCNC)
+  
+## 7. Application Layer
 
 1. Efficient authentication and re-authentication protocols for 4G/5G heterogeneous networks[A][C][[pdf](https://jwcn-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13638-020-01702-8.pdf)]
    Kamal Ali Alezabi, Fazirulhisyam Hashim, Shaiful J. Hashim, Borhanuddin M. Ali & Abbas Jamalipour. EURASIP Journal on Wireless Communications and Networking volume 2020, Article number: 105 (2020)
+
 
 ## Experimental Setups
 
