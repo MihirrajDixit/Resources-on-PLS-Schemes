@@ -44,13 +44,13 @@ Format referred from [here](https://github.com/THUYimingLi/backdoor-learning-res
 
 ## Survey
 
-1. A Survey of Physical-Layer Authentication in Wireless Communications [[link](https://ieeexplore.ieee.org/document/9279294)]
+1. A Survey of Physical-Layer Authentication in Wireless Communications [[pdf](https://ieeexplore.ieee.org/iel7/9739/5451756/09279294.pdf)]
    - Ning Xie, Zhuoyuan Li, and Haijun Tan. IEEE Communications Surveys & Tutorials ( Volume: 23, Issue: 1, Firstquarter 2021)
   
 2. Survey on Physical Layer Security for 5G Wireless Networks [[pdf](https://arxiv.org/pdf/2006.08044.pdf)]
    - José David Vega Sánchez, Luis Urquiza-Aguiar, Martha Cecilia Paredes Paredes, Diana Pamela Moya Osorio. Annals of Telecommunications (2021) 76:155–174
 
-3. Physical layer authentication in wireless communication networks: A survey [[link](https://ieeexplore.ieee.org/abstract/document/9200889)]
+3. Physical layer authentication in wireless communication networks: A survey [[pdf](https://ieeexplore.ieee.org/iel7/8892389/9200886/09200889.pdf)]
    - Lin Bai, Lina Zhu, Jianwei Liu, Jinho Choi, Wei Zhang.  Journal of Communications and Information Networks ( Volume: 5, Issue: 3, September 2020)
 
 4. Physical-Layer Security of 5G Wireless Networks for IoT: Challenges and Opportunities [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8758230&casa_token=Gon-0qWBD1UAAAAA:8n049b0PQD2we8ThIys9krrjPxU1Bqe-TnAnKAfoIpbvE7FgErubkNCD_hM1FT6lMbbta_Twvg)]
@@ -155,7 +155,7 @@ Format referred from [here](https://github.com/THUYimingLi/backdoor-learning-res
 ## 7. Application Layer
 
 1. Efficient authentication and re-authentication protocols for 4G/5G heterogeneous networks[A][C][[pdf](https://jwcn-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13638-020-01702-8.pdf)]
-   Kamal Ali Alezabi, Fazirulhisyam Hashim, Shaiful J. Hashim, Borhanuddin M. Ali & Abbas Jamalipour. EURASIP Journal on Wireless Communications and Networking volume 2020, Article number: 105 (2020)
+   - Kamal Ali Alezabi, Fazirulhisyam Hashim, Shaiful J. Hashim, Borhanuddin M. Ali & Abbas Jamalipour. EURASIP Journal on Wireless Communications and Networking volume 2020, Article number: 105 (2020)
 
 
 ## Experimental Setups
